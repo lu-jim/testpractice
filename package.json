@@ -1,0 +1,15 @@
+{
+  "name": "testpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testPractice.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.0",
+    "jest": "^27.3.1"
+  }
+}
